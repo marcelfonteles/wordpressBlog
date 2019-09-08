@@ -3,7 +3,8 @@
 ## Mysql
 ### Install
  After installation login with:
-    sudo mysql; and create user.
+    sudo mysql; 
+ And create user.
 ### Create User
     CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
     GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost';
