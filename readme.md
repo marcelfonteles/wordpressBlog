@@ -20,6 +20,7 @@
 ## More Information
  https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
  https://wordpress.org/support/article/creating-database-for-wordpress/#using-the-mysql-client
+ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
  
 
 
