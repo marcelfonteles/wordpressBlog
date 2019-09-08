@@ -18,6 +18,7 @@
 ## More Information
 ### How to install wordpress with nginx on Ubuntu (Important)
     https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+    https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04
 ### How to create new user and give permissions on mysql
     https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
 ### Creating database for wordpress
