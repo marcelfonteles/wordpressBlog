@@ -1,7 +1,6 @@
 # Documentation for Wordpress
 
 ## Mysql
-
 ### Install
  After installation login with: sudo mysql; and create user.
 ### Create User
@@ -15,12 +14,14 @@
  SHOW DATABASES;
 
 
-
-
 ## More Information
- https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
- https://wordpress.org/support/article/creating-database-for-wordpress/#using-the-mysql-client
- https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+### How to install wordpress with nginx on Ubuntu (Important)
+-https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+### How to create new user and give permissions on mysql
+-https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
+### Creating database for wordpress
+-https://wordpress.org/support/article/creating-database-for-wordpress/#using-the-mysql-client
+
  
 
 
