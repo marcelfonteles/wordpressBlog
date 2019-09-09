@@ -26,8 +26,12 @@
     https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
 ### Creating database for wordpress
     https://wordpress.org/support/article/creating-database-for-wordpress/#using-the-mysql-client
-
- 
+### Introduction to Nginx
+    https://medium.com/free-code-camp/an-introduction-to-nginx-for-developers-62179b6a458f
+### Let's Encrypt and Nginx. Configuring SSL
+    https://medium.com/hackernoon/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41
+### How to create your first safe server that's ready for production
+    https://www.freecodecamp.org/news/how-to-create-your-first-safe-server-ready-for-production-f1cc60eec69a/ 
 
 
 
